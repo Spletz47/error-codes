@@ -1,0 +1,13 @@
+{
+	"112": {
+		"1035": {
+			"name": "",
+			"message": "Could not display page.",
+			"short_description": "The web page is too modern for the Wii U web browser.",
+			"long_description": "The web page you are trying to access cannot be displayed by the Wii U internet browser as it is too modern.",
+			"short_solution": "No solution. You cannot visit that page.",
+			"long_solution": "There is no solution as the Wii U cannot view that page.",
+			"support_link": "https://preten.do/112-1035"
+		}
+	}
+}

@@ -4,7 +4,7 @@
 			"name": "Unknown",
 			"message": "",
 			"short_description": "Device certificate is invalid",
-			"long_description": "Unknown cause.",
+			"long_description": "Local friend code SEED has invalid signature. This should only happen if it has been modified.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0121"

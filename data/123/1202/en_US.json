@@ -1,0 +1,13 @@
+{
+	"123": {
+		"1202": {
+			"name": "Unknown",
+			"message": "Add-on content for this software\ncannot be updated now because\nan older version of the same content\nis currently being installed.\n\nPlease try again after completing\nthe installation.",
+            "short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/123-1202"
+		}
+	}
+}

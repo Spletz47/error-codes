@@ -1,0 +1,13 @@
+{
+	"123": {
+		"9008": {
+			"name": "Unknown",
+			"message": "A system update is required. Go to\nSystem Settings, complete the update\nand then try again. Please download\nany items you have purchased or\nredeemed a download code for after\nthe update is complete.\n\nDo you want to close this software and\nperform a system update? Any unsaved\ndata will be lost.",
+            "short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/123-9008"
+		}
+	}
+}

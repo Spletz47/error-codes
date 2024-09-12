@@ -1,0 +1,13 @@
+{
+	"123": {
+		"1301": {
+			"name": "Unknown",
+			"message": "You cannot add an amount that\nwould cause your balance to exceed [value]",
+            "short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/123-1301"
+		}
+	}
+}

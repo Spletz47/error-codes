@@ -1,0 +1,13 @@
+{
+	"123": {
+		"1102": {
+			"name": "Unknown",
+			"message": "You already own all of the add-on\ncontent that can be downloaded with\nthe download code you have entered.",
+            "short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/123-1102"
+		}
+	}
+}

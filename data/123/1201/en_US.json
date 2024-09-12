@@ -1,0 +1,13 @@
+{
+	"123": {
+		"1201": {
+			"name": "Unknown",
+			"message": "Some add-on content has not finished\nupdating. The update will be completed\nnext time you restart the software or\nwhen you purchase add-on content\nthrough the software.",
+            "short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/123-1201"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"123": {
+		"1000": {
+			"name": "Unknown",
+			"message": "Add-on content cannot be downloaded\nnow because other add-on content\nfor this software has not finished\ninstalling.\n\nPlease try again after completing\nthe installation.",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/123-1000"
+		}
+	}
+}

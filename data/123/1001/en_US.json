@@ -1,0 +1,13 @@
+{
+	"123": {
+		"1001": {
+			"name": "Unknown",
+			"message": "Add-on content cannot be downloaded\nnow because an error occurred while\ndownloading other add-on content for\nthe same software.\n\nThe error can be checked in\nDownload Management on the\nHOME Menu. Please try again\nafter the error is resolved.",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/123-1001"
+		}
+	}
+}

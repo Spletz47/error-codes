@@ -1,0 +1,13 @@
+{
+	"123": {
+		"1300": {
+			"name": "Unknown",
+			"message": "You cannot currently add funds to your\nbalance in your region. We apologise\nfor the inconvenience.",
+            "short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/123-1300"
+		}
+	}
+}

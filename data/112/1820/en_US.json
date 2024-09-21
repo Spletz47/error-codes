@@ -1,0 +1,13 @@
+{
+	"112": {
+		"1820": {
+			"name": "Unknown.",
+			"message": "",
+			"short_description": "Unable to find security certificate.",
+			"long_description": "Unable to find security certificate.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution",
+			"support_link": "https://preten.do/112-1820"
+		}
+	}
+}

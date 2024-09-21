@@ -1,7 +1,7 @@
 {
 	"112": {
 		"1035": {
-			"name": "",
+			"name": "Unknown.",
 			"message": "Could not display page.",
 			"short_description": "The web page is too modern for the Wii U web browser.",
 			"long_description": "The web page you are trying to access cannot be displayed by the Wii U internet browser as it is too modern.",

@@ -1,0 +1,13 @@
+{
+	"112": {
+		"1007": {
+			"name": "Unknown.",
+			"message": "Could not display page.",
+			"short_description": "Unable to load content when using the Internet Browser.",
+			"long_description": "Unable to load content when using the Internet Browser. Often caused by streaming incompatible video content.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/112-1007"
+		}
+	}
+}

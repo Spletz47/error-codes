@@ -2,7 +2,7 @@
 	"111": {
 		"9002": {
 			"name": "UNDER_MAINTENANCE",
-			"message": "",
+			"message": "Nintendo eShop is currently\nundergoing maintenance.n\We apologise for any inconvenience.\nPlease try again later.\n\nPlease see the Nintendo website\nfor maintenance information.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",

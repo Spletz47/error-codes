@@ -1,0 +1,13 @@
+{
+	"199": {
+		"0010": {
+			"name": "Unknown",
+			"message": "N/A",
+			"short_description": "Softlock",
+			"long_description": "The console has crashed, which could occur for a multitude of reasons.",
+			"short_solution": "Force shut down the console by holding down the power button for at least 5 seconds, then try again.",
+			"long_solution": "Force shut down the console by holding down the power button for at least 5 seconds, then try again.",
+			"support_link": "https://preten.do/170-0001"
+		}
+	}
+}

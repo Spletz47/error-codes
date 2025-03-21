@@ -1,0 +1,13 @@
+{
+	"160": {
+		"0109": {
+			"name": "USB_MEDIA_WRITE_PROTECTED",
+			"message": "Data could not be saved.\nThe USB storage device\nis write-protected.\nPlease refer to the manual for the\ndevice and disable write-protection.",
+			"short_description": "The USB storage device is write-protected.",
+			"long_description": "The USB storage device is write-protected, or the console is unable to write to the device for other reasons. This could be a dirty port or faulty adapter.",
+			"short_solution": "Disable write-protection on the USB storage device.",
+			"long_solution": "Disable write-protection on the USB storage device. If it is disabled, you may need to clean the console's USB port(s) or purchase a new adapter or USB storage device.",
+			"support_link": "https://preten.do/160-0109"
+		}
+	}
+}

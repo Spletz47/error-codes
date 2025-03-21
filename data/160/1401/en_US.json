@@ -1,0 +1,13 @@
+{
+	"160": {
+		"1401": {
+			"name": "ODM_STATE_HARD_FATAL",
+			"message": "",
+			"short_description": "Optical Disc Drive error",
+			"long_description": "Optical Disc Drive error",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/160-1401"
+		}
+	}
+}

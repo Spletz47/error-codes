@@ -1,7 +1,7 @@
 {
 	"160": {
 		"1400": {
-			"name": "Unknown",
+			"name": "ODD Error",
 			"message": "There is a problem with the disc drive.\n\nFor help, make a note of the error code and visit\nsupport.nintendo.com.",
 			"short_description": "Optical Disc Drive error",
 			"long_description": "Optical Disc Drive error - Likely an issue with the Common Mode Filter.",

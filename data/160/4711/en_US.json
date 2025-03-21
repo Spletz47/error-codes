@@ -1,10 +1,10 @@
 {
 	"160": {
 		"4711": {
-			"name": "Unknown",
+			"name": "USB_DATA_CORRUPTED",
 			"message": "There is a problem with the USB storage device.\n\nPlease contact the manufacturer of the device.\nCheck the device's documentation for contact details.",
-			"short_description": "USB device error",
-			"long_description": "USB device error - may indicate a dying or dead USB storage device.",
+			"short_description": "The data in the USB storage device is corrupted.",
+			"long_description": "The data in the USb storage device is corrupted. It may be dying or dead.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/160-4711"

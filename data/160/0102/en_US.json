@@ -1,7 +1,7 @@
 {
 	"160": {
 		"0102": {
-			"name": "DATA_CORRUPTED",
+			"name": "Volume Error",
 			"message": "",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
